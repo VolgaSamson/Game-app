@@ -20,7 +20,7 @@ const HowToScreen = () => {
           </Grid>
           <Grid item xs={12} sm={12} md={8}>
             <Typography className={`${css.explainer} ${css.explainerRight}`}>
-              The goal of Number Rush Frenzy is simple. Take the four cards you receive and find a way to combine them into a mathematical statement that equals the target card in red. Once you have the solution in place, click the red card. You can drag and drop cards to put them in the order you need.
+              The goal of Number Rush is simple. Take the four cards you receive and find a way to combine them into a mathematical statement that equals the target card in red. Once you have the solution in place, click the red card. You can drag and drop cards to put them in the order you need.
             </Typography>
           </Grid>
         </Grid>
